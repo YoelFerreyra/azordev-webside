@@ -13,13 +13,13 @@ export default function Team() {
       },
     },
     {
-      name: "Jose Martínez",
+      name: "Jose Miguel Tovar Rodriguez",
       role: "Frontend Developer",
       image: "/placeholder.svg?height=300&width=300",
       bio: "Experta en UI/UX y desarrollo frontend con React, Next.js y TailwindCSS.",
       social: {
         github: "https://github.com/joset98",
-        linkedin: "#",
+        linkedin: "https://www.linkedin.com/in/jose-miguel-tovar/",
       },
     },
     {
@@ -33,13 +33,13 @@ export default function Team() {
       },
     },
     {
-      name: "Albeto Renz",
+      name: "Alberto José Rey",
       role: "Full Stack Developer",
       image: "/placeholder.svg?height=300&width=300",
       bio: "Desarrollador de aplicaciones complejas con React.",
       social: {
-        github: "#",
-        linkedin: "#",
+        github: "https://github.com/ARenzDev",
+        linkedin: "https://www.linkedin.com/in/renz17/",
       },
     },
   ]
