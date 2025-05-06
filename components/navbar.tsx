@@ -18,7 +18,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0 flex items-center">
-              <span className="text-blue-700 text-xl font-bold">DevTeam</span>
+              <span className="text-blue-700 text-xl font-bold">Azordev</span>
             </Link>
           </div>
           <div className="hidden md:flex items-center space-x-4">

@@ -13,19 +13,19 @@ export default function Hero() {
               alta calidad.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <Button size="lg" className="bg-white text-blue-700 hover:bg-gray-100">
+              <Button size="lg" variant="outline" className="border-white text-blue-700 hover:bg-blue-800 hover:text-white">
                 <Link href="#contact">Contáctanos</Link>
               </Button>
-              <Button size="lg" variant="outline" className="border-white text-white hover:bg-blue-800">
+              <Button size="lg" variant="outline" className="border-white text-blue-700 hover:bg-blue-800 hover:text-white">
                 <Link href="#services">Nuestros Servicios</Link>
               </Button>
             </div>
           </div>
           <div className="md:w-1/2 flex justify-center">
             <img
-              src="/placeholder.svg?height=400&width=500"
+              src="logo-azordev.svg?height=300&width=400"
               alt="Desarrollo web profesional"
-              className="rounded-lg shadow-xl max-w-full h-auto"
+              className="w-50 h-auto filter invert brightness-0"
             />
           </div>
         </div>

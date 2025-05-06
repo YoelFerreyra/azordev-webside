@@ -3,47 +3,43 @@ import { Github, Linkedin, Twitter } from "lucide-react"
 export default function Team() {
   const teamMembers = [
     {
-      name: "Carlos Rodríguez",
+      name: "Israel Laguan",
       role: "Full Stack Developer",
       image: "/placeholder.svg?height=300&width=300",
-      bio: "Especialista en React y Node.js con 5 años de experiencia en desarrollo web.",
+      bio: "Especialista en React y Node.js con 8 años de experiencia en desarrollo web.",
       social: {
-        github: "#",
-        linkedin: "#",
-        twitter: "#",
+        github: "https://github.com/Israel-Laguan",
+        linkedin: "https://www.linkedin.com/in/israellaguan/",
       },
     },
     {
-      name: "Ana Martínez",
+      name: "Jose Martínez",
       role: "Frontend Developer",
       image: "/placeholder.svg?height=300&width=300",
       bio: "Experta en UI/UX y desarrollo frontend con React, Next.js y TailwindCSS.",
       social: {
-        github: "#",
+        github: "https://github.com/joset98",
         linkedin: "#",
-        twitter: "#",
       },
     },
     {
-      name: "Miguel Sánchez",
+      name: "Yoel Ferreyra",
       role: "Backend Developer",
       image: "/placeholder.svg?height=300&width=300",
       bio: "Especialista en arquitectura de sistemas y bases de datos con experiencia en Node.js y Python.",
       social: {
-        github: "#",
-        linkedin: "#",
-        twitter: "#",
+        github: "https://github.com/YoelFerreyra",
+        linkedin: "https://www.linkedin.com/in/eric-yoel-ferreyra-ab5b981bb/",
       },
     },
     {
-      name: "Laura Gómez",
-      role: "Mobile Developer",
+      name: "Albeto Renz",
+      role: "Full Stack Developer",
       image: "/placeholder.svg?height=300&width=300",
-      bio: "Desarrolladora de aplicaciones móviles con React Native y Flutter.",
+      bio: "Desarrollador de aplicaciones complejas con React.",
       social: {
         github: "#",
         linkedin: "#",
-        twitter: "#",
       },
     },
   ]
@@ -76,9 +72,6 @@ export default function Team() {
                   </a>
                   <a href={member.social.linkedin} className="text-gray-600 hover:text-blue-700">
                     <Linkedin size={20} />
-                  </a>
-                  <a href={member.social.twitter} className="text-gray-600 hover:text-blue-700">
-                    <Twitter size={20} />
                   </a>
                 </div>
               </div>
