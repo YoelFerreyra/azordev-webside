@@ -15,7 +15,7 @@ export default function Team() {
     {
       name: "Jose Miguel Tovar Rodriguez",
       role: "Frontend Developer",
-      image: "https://media.licdn.com/dms/image/v2/D4E35AQEhRizv6ueAnA/profile-framedphoto-shrink_800_800/B4EZVN1GczHMAk-/0/1740767520879?e=1747684800&v=beta&t=SxlRqRlaIadeH6lpMrOBUxEOou0F_y8uzZ0oiYSxVyY",
+      image: "/jose-avatar.jpg",
       bio: "Experta en UI/UX y desarrollo frontend con React, Next.js y TailwindCSS.",
       social: {
         github: "https://github.com/joset98",
