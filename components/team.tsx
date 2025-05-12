@@ -5,7 +5,7 @@ export default function Team() {
     {
       name: "Israel Laguan",
       role: "Full Stack Developer",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://media.licdn.com/dms/image/v2/C5603AQE2yp2P3gXdDg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1586879922473?e=1752710400&v=beta&t=ItsDOVYwI0AiCLnkeynpGq6D91E9QxljQHacpKgWUWI",
       bio: "Especialista en React y Node.js con 8 años de experiencia en desarrollo web.",
       social: {
         github: "https://github.com/Israel-Laguan",
@@ -15,7 +15,7 @@ export default function Team() {
     {
       name: "Jose Miguel Tovar Rodriguez",
       role: "Frontend Developer",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "/jose-avatar.jpg",
       bio: "Experta en UI/UX y desarrollo frontend con React, Next.js y TailwindCSS.",
       social: {
         github: "https://github.com/joset98",
@@ -25,7 +25,7 @@ export default function Team() {
     {
       name: "Yoel Ferreyra",
       role: "Backend Developer",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://media.licdn.com/dms/image/v2/C4D03AQHiV6tKBXHe2g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1655254800968?e=1752710400&v=beta&t=e57SKa3xmb30jI2JA4AQJd_ScD7FURluz-LfbdygiJs",
       bio: "Especialista en arquitectura de sistemas y bases de datos con experiencia en Node.js y Python.",
       social: {
         github: "https://github.com/YoelFerreyra",
@@ -35,7 +35,7 @@ export default function Team() {
     {
       name: "Alberto José Rey",
       role: "Full Stack Developer",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://media.licdn.com/dms/image/v2/D4E03AQFZoY9l7wnlPw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704638200879?e=1752710400&v=beta&t=9MvzvNWmu5NMWvJFKSUFmbwSzrTiKcTcXwu_gRtC7bQ",
       bio: "Desarrollador de aplicaciones complejas con React.",
       social: {
         github: "https://github.com/ARenzDev",
