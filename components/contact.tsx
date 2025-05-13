@@ -178,7 +178,7 @@ export default function Contact() {
                 <div className="ml-3">
                   <p className="text-lg font-medium">Email</p>
                   <a href="mailto:info@Azordev.com" className="text-gray-600 hover:text-blue-700">
-                    info@Azordev.com
+                    info@azordev.com
                   </a>
                 </div>
               </div>
