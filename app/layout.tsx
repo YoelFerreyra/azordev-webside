@@ -3,8 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Azordev - Desarrollo Web Profesional',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: 'Desarrollo de aplicaciones web a medida',
 }
 
 export default function RootLayout({
