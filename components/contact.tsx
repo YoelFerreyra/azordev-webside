@@ -177,8 +177,8 @@ export default function Contact() {
                 </div>
                 <div className="ml-3">
                   <p className="text-lg font-medium">Email</p>
-                  <a href="mailto:info@devteam.com" className="text-gray-600 hover:text-blue-700">
-                    info@devteam.com
+                  <a href="mailto:info@Azordev.com" className="text-gray-600 hover:text-blue-700">
+                    info@Azordev.com
                   </a>
                 </div>
               </div>
@@ -190,7 +190,7 @@ export default function Contact() {
                 <div className="ml-3">
                   <p className="text-lg font-medium">Teléfono</p>
                   <a href="tel:+123456789" className="text-gray-600 hover:text-blue-700">
-                    +1 (234) 567-890
+                    +54 (11) 5614-9888
                   </a>
                 </div>
               </div>
@@ -202,9 +202,9 @@ export default function Contact() {
                 <div className="ml-3">
                   <p className="text-lg font-medium">Oficina</p>
                   <p className="text-gray-600">
-                    Calle Principal 123
+                    Calle Principal 3324
                     <br />
-                    Ciudad Tecnológica, CP 12345
+                    Ciudad Buenos Aires, CP 1742
                   </p>
                 </div>
               </div>
