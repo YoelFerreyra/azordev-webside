@@ -7,6 +7,7 @@ import Contact from "@/components/contact"
 import Team from "@/components/team"
 import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
+import Projects from "@/components/projects"
 
 export default function Home() {
   return (

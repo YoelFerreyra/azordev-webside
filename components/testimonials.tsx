@@ -62,6 +62,7 @@ export default function Testimonials() {
           ))}
         </div>
 
+          {/*
         <div className="mt-16 text-center">
           <h3 className="text-2xl font-semibold mb-8">Empresas que confían en nosotros</h3>
           <div className="flex flex-wrap justify-center gap-8 items-center">
@@ -75,6 +76,7 @@ export default function Testimonials() {
             ))}
           </div>
         </div>
+          */}
       </div>
     </section>
   )
